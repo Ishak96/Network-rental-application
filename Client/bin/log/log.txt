@@ -1,0 +1,298 @@
+INFO main GUI.HomeGUI - 
+Welcom!
+INFO AWT-EventQueue-0 GUI.RegisterDialog - ---INSCRIPTION---
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ clients:zz:aaaa:::: ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK ]
+INFO AWT-EventQueue-0 GUI.RegisterDialog - ---INSCRIPTION---
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+ERROR AWT-EventQueue-0 GUI.RegisterDialog - Délai d'attente dépassé
+INFO AWT-EventQueue-0 GUI.RegisterDialog - ---INSCRIPTION---
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DT ]
+INFO AWT-EventQueue-0 GUI.RegisterDialog - ---INSCRIPTION---
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ HHH ]
+INFO AWT-EventQueue-0 GUI.RegisterDialog - ---INSCRIPTION---
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ kk ]
+INFO AWT-EventQueue-0 GUI.RegisterDialog - <INSCRIPTION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+ERROR AWT-EventQueue-0 GUI.RegisterDialog - Délai d'attente dépassé
+INFO AWT-EventQueue-0 GUI.RegisterDialog - <INSCRIPTION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SINGIN ]
+ERROR AWT-EventQueue-0 GUI.RegisterDialog - erreur d'entrée/sortie
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ : ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ NO: ]
+ERROR AWT-EventQueue-0 GUI.LoginDialog - trame invalide envoyée par le serveur
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+ERROR AWT-EventQueue-0 GUI.LoginDialog - Délai d'attente dépassé
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ data ]
+ERROR AWT-EventQueue-0 Util.ClientTCP - réponse de serveur inattendue.
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ : ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Professionnel:pro_00001:HACHOUD:Rassem:3 rue des ecoles:0622377435:rassem@gmail.com:123456:plombier:aucun:5 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ kkk:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:mmmm:mm ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+ERROR AWT-EventQueue-0 GUI.UserSpace - Délai d'attente dépassé
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MAKK ]
+ERROR AWT-EventQueue-0 Util.ClientTCP - réponse de serveur inattendue.
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ mmmm ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ m:m:m:m:m ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche.TEXT ]
+ERROR AWT-EventQueue-0 Util.ClientTCP - réponse de serveur inattendue.
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche.TEXT ]
+ERROR AWT-EventQueue-0 Util.ClientTCP - réponse de serveur inattendue.
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Flex TR33 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Flex TR33:40:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche.TEXT ]
+ERROR AWT-EventQueue-0 Util.ClientTCP - réponse de serveur inattendue.
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Flex TR33 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Flex TR33:40:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.LogoutDialog - <DÉCONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGOUT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ID ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [  ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ NO:Inscrivez vous à notre application ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ null ]
+ERROR AWT-EventQueue-0 GUI.UserSpace - Connexion interrompue avec le serveur
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ le:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ k:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Perceuse Skil TCP:Perceuse Skil GZA23 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ k:DESC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Perceuse Skil GZA23:Perceuse Skil TCP ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Perceuse Skil GZA23 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Perceuse Skil GZA23:90:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Perceuse Skil TCP ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Perceuse Skil TCP:67:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Perceuse Skil GZA23 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Perceuse Skil GZA23:90:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ kill:DESC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ NOT FOUND ]
+INFO AWT-EventQueue-0 GUI.LogoutDialog - <DÉCONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGOUT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ID ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [  ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Dewalt E33ALERTE ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Dewalt E33ALERTE:(null):(null)::0 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Dewalt Z98 S ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Dewalt Z98 S:70:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.LogoutDialog - <DÉCONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGOUT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ID ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [  ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0751095208     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:alerte le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ te:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ NOT FOUND ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ t:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Tronçoneuse Hitachi TE55:Tronçoneuse Hitachi R55:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33:Tronçoneuse Hitachi YT66:Tronçoneuse Stihl TTP:Tronçoneuse Hitachi R55 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ p:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ NOT FOUND ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ P:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Perceuse Bosch 9HZ:Perceuse Skil TCP:Perceuse Bosch 55M:Tronçoneuse Stihl TTP:Perceuse Skil GZA23 ]
+INFO AWT-EventQueue-0 GUI.LogoutDialog - <DÉCONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGOUT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ ID ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [  ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0650505452     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33ALERTE:alerte le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Flex R23 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Flex R23:65:Aucune:2019-01-08:4 ]
+INFO AWT-EventQueue-0 GUI.LoginDialog - <CONNEXION>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ LOGIN ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ DATA ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Client:cli_C7HI9JbreG7En6TyzZ5n6sFuyb681wgK5k9N4QPJtWc8t7:AYAD:ishak:4 rue de blabla CERGY:0650505452     :ishak.ayad@gmail.com:123456 ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <RECHERCHE>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ SEARCH ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ TEXT ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Me:ASC ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ OK:Meuleuse Flex TR33:Meuleuse Flex R23:Meuleuse Dewalt Z98 S:Meuleuse Dewalt E33alerte le materiel Tronçoneuse Hitachi TE55 est a prix bas 20$,pour plus d'informations effectué une recherche. ]
+INFO AWT-EventQueue-0 GUI.UserSpace - <DÉTAILS MATERIEL>
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ DETAILS ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ MATERIEL ]
+INFO AWT-EventQueue-0 Util.ClientTCP - requête-client ---> [ Meuleuse Flex TR33 ]
+INFO AWT-EventQueue-0 Util.ClientTCP - réponse-serveur <--- [ Meuleuse Flex TR33:40:Aucune:2019-01-08:4 ]
